@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 9: GoRestaurant Web
+  Desafio 10: GoRestaurant Web
 </h3>
 
 <p align="center">
